@@ -1,0 +1,17 @@
+
+[intitle:("teaching") insubject:("requirements engineering")](https://scholar.google.com.pe/scholar?q=intitle%3A%28%22teaching%22%29+insubject%3A%28%22requirements+engineering%22%29&btnG=&hl=en&as_sdt=0%2C5)
+
+|paper|observation|
+|---|---|
+|[Teaching requirements engineering through role playing: lessons learnt](http://ieeexplore.ieee.org/xpls/abs_all.jsp?arnumber=1232754)|similar stratetegy, not auditors and assesment with elicitation techniques. The student customer must separate their role as customer, educator, and (fellow) studen. Faculty without requirements engineering experience often make better customers. We have noted that experienced practitioners tend to impose their perspectives on the process. Industrial partners can be very effective simulated cus-tomers, Unfortunately, it is very difficult to find a partner that can make a time commitment to a classroom schedule. There are significant pedagogical risks associated with using real customers. they are relatively uncontrollable and their needs may not match the learning objectives. The emotional maturity in our student population may not have been high enough for this pedagogical approach |  
+
+[intitle:("teaching") insubject:("requirements engineering" && "graduate")](https://scholar.google.com.pe/scholar?start=0&q=intitle:(%22teaching%22)+insubject:(%22requirements+engineering%22+%26%26+%22graduate%22)+&hl=en&as_sdt=0,5)
+
+|paper|observation|
+|---|---|
+|[Teaching requirements engineering through role playing: lessons learnt](http://ieeexplore.ieee.org/xpls/abs_all.jsp?arnumber=1232754)| similar stratetegy, not auditors and assesment with elicitation techniques |
+|[Teaching requirements engineering to an unsuspecting audience] (http://dl.acm.org/citation.cfm?id=1121475)| Has problem statement, and a final simulation in class of a ramdom problem.  FACTS: The student customer must separate their role as customer, educator, and (fellow) studen, faculty without requirements engineering experience often make better customers. We have noted that experienced practitioners tend to impose their perspectives on the process. Industrial partners can be very effective simulated cus-tomers, Unfortunately, it is very difficult to find a partner that can make a time commitment to a classroom schedule.  There are significant pedagogical risks associated with using real customers – they are relatively uncontrollable and their needs may not match the learning objectives. The emo-tional maturity in our student population may not have been high enough for this pedagogical approach |
+|[Role-playing, group work and other ambitious teaching methods in a large requirements engineering course](http://ieeexplore.ieee.org/stamp/stamp.jsp?tp=&arnumber=1316712)| given a problem statement, strategy applied to under and pos graduate, not assesment with elicitation techniques. inspection in pairs, dificult for students|
+|[Teaching Requirements Engineering in the Small:an Under-graduate Course Experience](http://scholar.google.com.pe/scholar_url?url=http%3A%2F%2Fciteseerx.ist.psu.edu%2Fviewdoc%2Fdownload%3Fdoi%3D10.1.1.120.4415%26rep%3Drep1%26type%3Dpdf&hl=en&sa=T&oi=ggp&ct=res&cd=3&ei=4AX3VOihCuLC0QGAioHABw&scisig=AAGBfm2jAMn4qkap7pzdKGnlUSzPBDT9pw&nossl=1&ws=1301x603)|teacher was customer.16 hours of workshop|  
+|[http://ieeexplore.ieee.org/stamp/stamp.jsp?tp=&arnumber=5070698](http://ieeexplore.ieee.org/stamp/stamp.jsp?tp=&arnumber=5070698)|postgraduate research-practice gap|
+
